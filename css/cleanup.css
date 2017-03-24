@@ -1,1 +1,8 @@
 /* write your override styles here */
+#wall {
+  display:block!important;
+}
+
+.tag-1, #tag-2, #tag-3, .parent {
+  display: none!important;
+}
